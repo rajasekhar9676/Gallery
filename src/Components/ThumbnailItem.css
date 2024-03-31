@@ -1,0 +1,12 @@
+.thumbnail-container {
+    display: flex;
+    flex-direction: row;
+  }
+  img {
+    cursor: pointer;
+  }
+  
+  button {
+    border: 0px solid;
+  }
+  
